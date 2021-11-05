@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex3397&theme=tokyonight&hide=HTML) add some space here ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex3397&count_private=true&theme=radical)
+
+Don't worry if it's ugly, it's an ongoing thingy.
